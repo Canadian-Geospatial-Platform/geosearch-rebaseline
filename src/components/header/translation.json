@@ -1,0 +1,28 @@
+{
+    "en-CA": {
+        "home": "Home",
+        "search": "Search",
+        "mymap": "MyMap",
+        "language": {
+            "htmllangcode": "fr",
+            "key": "fr-CA",
+            "name": "Français"
+        },
+        "nomap": "Your map is empty, please add data to map",
+        "logotext": "logo for the Canadian Geospatial Platform",
+        "logoLinktext": "Canadian Geospatial Platform homepage"
+    },
+    "fr-CA": {
+        "home": "Accueil",
+        "search": "Recherche",
+        "mymap": "MaCarte",
+        "language": {
+            "htmllangcode": "en",
+            "key": "en-CA",
+            "name": "English"
+        },
+        "nomap": "Votre carte est vide, veuillez ajouter des données à la carte",
+        "logotext": "logo de la Plateforme géospatiale fédérale",
+        "logoLinktext": "Page d'accueil de la Plateforme géospatiale fédérale"
+    } 
+}

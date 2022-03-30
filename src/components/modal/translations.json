@@ -1,0 +1,28 @@
+{
+    "en-CA": {
+      "buttonlabel": "Close",
+      "home": {
+          "title": "About the search application",
+          "description": "The search application uses a map to search data over the area shown. Pan and zoom the map to filter the content based on your area of interest. The results will refresh based on the area of the map."
+      },
+      "mapping": {
+          "title": "Added to MyMap",
+          "noadded": "No result added",
+          "gotomymap": "Go To MyMap",
+          "cancel": "Cancel"
+      }
+    },
+    "fr-CA": {
+      "buttonlabel": "Fermer",
+      "home": {
+          "title": "Au sujet de l'application recherche",
+          "description": "L'application recherche utilise une carte pour rechercher des données sur la zone affichée. Effectuez un panoramique et un zoom sur la carte pour filtrer le contenu en fonction de votre zone d'intérêt. Les résultats seront actualisés en fonction de la zone de la carte."
+      },
+      "mapping": {
+          "title": "Ajouté à MaCarte",
+          "noadded": "Pas de résultat",
+          "gotomymap": "Aller à MaCarte",
+          "cancel": "Annuler"
+      }
+    }
+}

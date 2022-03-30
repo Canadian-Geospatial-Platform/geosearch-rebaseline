@@ -1,0 +1,26 @@
+{
+    "en-CA": {
+        "search": "Search",
+        "filters": "Filters",
+        "analytics": "Analytics",
+        "account": "Account",
+        "howto": "How To",
+        "nothing_found": "Nothing found",
+        "action_back": "Back",
+        "custom": {
+          "mapPosition": "Map Position"
+        }
+    },
+    "fr-CA": {
+        "search": "Recherche",
+        "filters": "Filtres",
+        "analytics": "Analytique",
+        "account": "Compte",
+        "howto": "Comment",
+        "nothing_found": "Aucun résultat",
+        "action_back": "Retour",
+        "custom": {
+          "mapPosition": "'Localisation sur la carte"
+        }
+    }
+}
